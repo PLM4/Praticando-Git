@@ -1,6 +1,6 @@
 ## Mario familly
 
-![./familia-mario.jpg](Its me, Mario!)
+![It's me, Mario!](./familia-mario.jpg)
 
 
 Repositorio criado para praticar comandos do git
