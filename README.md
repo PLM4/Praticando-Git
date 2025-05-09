@@ -1,8 +1,5 @@
-## Mario familly
+## Mario family
 
-![It's me, Mario!](./familia-mario.jpg)
+![It's me, Mario!](https://github.com/PLM4/Praticando-Git/blob/main/familia-mario.jpg)
 
-
-Repositorio criado para praticar comandos do git
-
-
+Repositório criado para praticar comandos do git
