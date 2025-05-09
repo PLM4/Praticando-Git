@@ -1,5 +1,5 @@
-## Bowser family
+## Mario's family
 
-![Bowser is here!](https://github.com/PLM4/Praticando-Git/blob/bowser/familia-bowser.jpg)
+![It's me, Mario!](https://github.com/PLM4/Praticando-Git/blob/main/familia-main.jpg)
 
 Repositório criado para praticar comandos do git
