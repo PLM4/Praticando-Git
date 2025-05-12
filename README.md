@@ -1,5 +1,5 @@
-## Mario's family
+## Link's family
 
-![It's me, Mario!](https://github.com/PLM4/Praticando-Git/blob/familia-mario/familia-mario.jpg)
+![I'm gonna get you ganondorf!](https://github.com/PLM4/Praticando-Git/blob/familia-link/familia-link.jpg)
 
 Repositório criado para praticar comandos do git
